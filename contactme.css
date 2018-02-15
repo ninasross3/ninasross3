@@ -1,0 +1,35 @@
+body { background: #bccad6;
+    color: dimgrey;
+    font-size: 18pt; }
+body { font-family: 'Nanum Myeongjo', sans-serif; }
+h1 {
+    text-align: center;
+    font-size: 200%;
+    font-weight: bolder;
+    color: #667292
+}
+h3{font-size:125%;
+    color: #667292;
+font-weight: bolder;}
+h2 {text-align: center;
+        color: #f1e3dd;
+        font-size: 150%;
+        font-weight: lighter;}
+div a{color: #667292;
+text-decoration: none;
+    font-size: 125%;
+    font-weight: bold;
+border: none}
+
+a:hover {color: #f1e3dd}
+
+div p {display: inline-block;
+color: dimgray;
+font-size: 125%;
+font-weight: bolder}
+h5 {color: #667292;
+font-size: 125%;
+font-weight:bold;}
+p2{font-size: 100%;
+font-weight: normal;
+color: #667292}

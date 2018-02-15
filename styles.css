@@ -1,0 +1,53 @@
+body { background: #bccad6;
+    color: dimgrey;
+    font-size: 18pt; }
+body { font-family: 'Nanum Myeongjo', sans-serif; }
+h1 {text-align: center;
+    font-size: 150%;
+    font-weight: bolder;
+    color: #667292
+}
+h4 {text-align: center;
+    font-size: 150%;
+    font-weight: bolder;
+    color: #667292}
+h5 {text-align: center;
+    font-size: 150%;
+    font-weight: bolder;
+    color: #667292
+}
+h3{ font-family:'Pinyon Script', cursive;
+    text-align: center;
+    font-size: 250%;
+    font-weight: bolder;
+    color: #f1e3dd;
+}
+h2 {
+    text-align: center;
+    font-size: 150%;
+    font-weight: bold;
+    color: #667292;
+    border-style: double;
+    border-color: #f1e3dd;
+}
+div {
+    text-align: center;
+}
+img {margin: auto}
+div {
+    text-align: center;
+}
+div nav li {
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    background: white
+}
+div a {
+    color: dimgray;
+    border: none;
+    text-decoration: none;
+}
+div a:hover{
+    color: #df9fbf;
+}
